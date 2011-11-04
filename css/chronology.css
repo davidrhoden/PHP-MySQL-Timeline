@@ -1,0 +1,39 @@
+a:link { border:0; }
+.float_left {float:left; }
+.inline { display:inline; }
+#container { margin: 0 auto; position:relative; }
+#years {background:orange; color:black; font-family:georgia; font-size:3em; }
+#years a {color:black; padding:10px; border-right: 1px dotted yellow; text-decoration:none; }
+#months {background:yellow; color:black; font-family:georgia; font-size:2em; }
+#months a {color:black;  padding:10px; border-right: 1px dotted hotpink; text-decoration:none;}
+#days {background:hotpink; color:black; font-family:georgia; font-size:1em; }
+#days a {color:black;  padding:10px; border-right: 1px dotted white;text-decoration:none;}
+
+.day {display:inline; float:left;  width: 6px;}
+.month {background:yellow; color:black; font-family:georgia; font-size:2em; }
+.date {width:100px; }
+.milieu0 {outline: 1px solid #666666;}
+.milieu1 { background:gray; }
+.milieu2 { background:orange;  }
+.milieu3 { background:yellow; }
+.milieu4 { background:lightgreen;  }
+.milieu5 { background:hotpink;  }
+.milieu6 { background:aqua; margin-top: 12px; }
+.milieu7 { background:darkorange;  }
+.milieu8 { background:blue;  }
+/* .preview {border: 1px solid gray; padding: 4px; position: absolute; top: 50px; left: 6px; width: 300px;} */
+.preview {font-size: 11px; height: 12px; overflow: hidden; padding: 4px; position: absolute; top: -16px;  left: 36px; width: 600px;}
+#exhibit_photo {  position: absolute; right:0px; top:0px; z-index:100; }
+.square {/* display:inline; float:left; */ height:6px; margin: 0px; width: 6px; }
+.year { color:#000000; display: inline; float: left; font-family:Arial, Helvetica; height: 100px; margin-right: 20px; padding:20px 0; position: relative;  }
+.yearmarker {font-size: 12px; position: absolute; top: 0; left: 0; width: 50px;}
+
+
+#exhibit_photo img { width:100%; }
+#exhibit_caption {background: white; color:black; padding: 20px; position: absolute; left:0px; top:500px; z-index:200; opacity:.5; }
+#exhibit_text { background:white; color:black; font-family:georgia; font-size:3em; padding: 20px; position: absolute; left:0px; top:0px; z-index:100; opacity:.5; }
+#mainpart {width: 100000px;}
+ul#timeline {clear: both; height: 400px;}
+ul#timeline li { display: inline; float: left; font-family: Arial, Helvetica; font-size: 12px; margin: 20px; padding: 16px; width: 300px;}
+#timeline_container { border-bottom: 1px solid #d2d2d2; height: 100px; padding: 20px; }
+#viewport { border: 1px dotted orange; clear: both; height: 400px; margin: 0 auto; overflow: hidden; /* padding: 0 600px; width: 300px; */ }
