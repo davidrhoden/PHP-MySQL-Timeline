@@ -1,8 +1,6 @@
 <?php
 ini_set( 'display_errors', 1 );
 error_reporting( E_ALL );
-//$db = mysql_connect("internal-db.s48663.gridserver.com", "db48663", "howlinwolf") or die ("Couldn't connect to the production machine.");
-//mysql_select_db("db48663_davidrhoden",$db) or die ("Couldn't select db."); 
 
 
 $db = mysql_connect("localhost", "root", "root") or die ("Couldn't connect to the local machine.");
