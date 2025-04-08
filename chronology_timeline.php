@@ -3,7 +3,7 @@
 <head>
 <title>David Rhoden : Chronology</title>
 <link href="css/chronology.css" rel="stylesheet" type="text/css">
-<script type="text/javascript" src="js/jquery-3.4.0.min.js"></script>
+<script type="text/javascript" src="js/jquery-3.7.1.min.js"></script>
 <script type="text/javascript" src="js/jquery.scrollTo.js"></script>
 <script type="text/javascript" src="js/jquery.localscroll.js"></script>
 <!-- script type="text/javascript" src="js/jquery.lazyload.js" ></script-->

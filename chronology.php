@@ -4,7 +4,7 @@
 <link href="css/chronology.css" rel="stylesheet" type="text/css">
 <link rel="stylesheet" href="davidrhoden.css" media="screen" charset="iso-8859-15" />
 <link rel="stylesheet" href="css/coda_scroll_effect.css" media="screen" charset="iso-8859-15" />
-<script src="js/jquery-3.4.0.min.js" type="text/javascript"></script>
+<script src="js/jquery-3.7.1.min.js" type="text/javascript"></script>
 <script src="js/jquery.scrollTo.js" type="text/javascript"></script>
 <script src="js/jquery.localscroll.js" type="text/javascript" charset="utf-8"></script>
 <script src="js/jquery.serialScroll.js" type="text/javascript" charset="utf-8"></script>

@@ -4,7 +4,7 @@
 <html>
 <head>
 <link href="css/chronology.css" rel="stylesheet" type="text/css">
-<script src="js/jquery-3.4.0.min.js" type="text/javascript"></script>
+<script src="js/jquery-3.7.1.min.js" type="text/javascript"></script>
 </head>
 <body>
 <div id="container">
